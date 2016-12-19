@@ -18,7 +18,7 @@ DISPLAY_CATEGORIES_ON_MENU = True
 TIMEZONE = 'Asia/Shanghai'
 DEFAULT_DATE_FORMAT = '%m/%d/%Y'
 DEFAULT_LANG = 'zh_CN.UTF-8'
-SUMMARY_MAX_LENGTH = 30
+SUMMARY_MAX_LENGTH = 3
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
